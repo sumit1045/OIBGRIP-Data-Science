@@ -1,0 +1,3 @@
+# OIBGRIP-Data-Science
+
+Data Science continues to grow in popularity as a promising career path for this era. It’s one of the most exciting and attractive options available. Demand for Data Scientists is increasing in the market. According to recent reports, demand will skyrocket in the future years, increasing by many times. Data Science encompasses a wide range of scientific methods, procedures, techniques, and information retrieval systems to detect meaningful patterns in organized and unstructured data. More opportunities emerge in the market as more industries recognize the value of Data Science.
